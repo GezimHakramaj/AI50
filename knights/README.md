@@ -1,9 +1,9 @@
 # Week 1
-### Project 1a: Knights
+## Project 1a: Knights
 
 Write a program to solve logic puzzles.
 
-### Background
+## Background
 
 In 1978, logician Raymond Smullyan published “What is the name of this book?”, a book of logical puzzles. 
 Among the puzzles in the book were a class of puzzles that Smullyan called “Knights and Knaves” puzzles.
@@ -25,7 +25,7 @@ That puzzle was on the simpler side. With more characters and more sentences, th
 in this problem is to determine how to represent these puzzles using propositional logic, such that an AI running a 
 model-checking algorithm could solve these puzzles for us.
 
-### Understanding
+## Understanding
 
 Take a look at `logic.py`, which you may recall from Lecture 1. No need to understand everything in this file, 
 but notice that this file defines several classes for different types of logical connectives. These classes can be 
@@ -48,7 +48,7 @@ knowledge bases is empty. That’s where you come in!
 The `main` function of this `puzzle.py` loops over all puzzles, and uses model checking to compute, given the knowledge for that puzzle, 
 whether each character is a knight or a knave, printing out any conclusions that the model checking algorithm is able to make.
 
-### Specification
+## Specification
 
 Add knowledge to knowledge bases `knowledge0`, `knowledge1`, `knowledge2`, and `knowledge3` to solve the following puzzles.
 
@@ -69,3 +69,5 @@ Add knowledge to knowledge bases `knowledge0`, `knowledge1`, `knowledge2`, and `
 In each of the above puzzles, each character is either a knight or a knave. Every sentence spoken by a knight is true, and every sentence spoken by a knave is false.
 
 Once you’ve completed the knowledge base for a problem, you should be able to run `python puzzle.py` to see the solution to the puzzle.
+
+## Video

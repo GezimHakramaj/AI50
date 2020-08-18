@@ -1,9 +1,9 @@
 # Week 1
-### - Project 1b: Minesweeper
+## Project 1b: Minesweeper
 
 Write an AI to play Minesweeper.
 
-### Background
+## Background
 
 #### Minesweeper
 
@@ -128,7 +128,7 @@ that’s true.
 So using this method of representing knowledge, we can write an AI agent that can gather knowledge about the Minesweeper 
 board, and hopefully select cells it knows to be safe!
 
-### Understanding
+## Understanding
 
 There are two main files in this project: `runner.py` and `minesweeper.py`. `minesweeper.py` contains all of the logic the game itself and for the AI to 
 play the game. `runner.py` has been implemented for you, and contains all of the code to run the graphical interface for the game. Once you’ve completed 
@@ -155,7 +155,7 @@ for safe cells instead.
 
 The remaining functions, `add_knowledge`, `make_safe_move`, and `make_random_move`, are left up to you!
 
-### Specification
+## Specification
 
 Complete the implementations of the `Sentence` class and the `MinesweeperAI` class in `minesweeper.py`.
 
@@ -188,4 +188,4 @@ In the `MinesweeperAI` class, complete the implementations of `add_knowledge`, `
     - The move must not be a move that is known to be a mine.
     - If no such moves are possible, the function should return `None`.
       
-### Video
+## Video
