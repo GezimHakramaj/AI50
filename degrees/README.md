@@ -1,5 +1,5 @@
 # Week 0
-### Project 0a: Degrees
+## Project 0a: Degrees
 
 Write a program that determines how many “degrees of separation” apart two actors are.
 
@@ -15,7 +15,7 @@ Name: Jennifer Lawrence
 3: Michael Fassbender and Jennifer Lawrence starred in X-Men: First Class
 ```
 
-### Background
+## Background
 
 According to the [Six Degrees of Kevin Bacon](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon) game, anyone in the Hollywood film industry can be connected to Kevin Bacon within six steps, 
 where each step consists of finding a film that two actors both starred in.
@@ -28,7 +28,7 @@ We can frame this as a search problem: our states are people. Our actions are mo
 that a movie could take us to multiple different actors, but that’s okay for this problem). Our initial state and goal state are defined 
 by the two people we’re trying to connect. By using breadth-first search, we can find the shortest path from one actor to another.
 
-### Understanding
+## Understanding
 
 The distribution code contains two sets of CSV data files: one set in the `large` directory and one set in the `small` directory. Each 
 contains files with the same names, and the same structure, but `small` is a much smaller dataset for ease of testing and experimentation.
@@ -56,7 +56,7 @@ that multiple people have the same name). The function then calls the `shortest_
 
 The `shortest_path` function, however, is left unimplemented. That’s where you come in!
 
-### Specification
+## Specification
 
 Complete the implementation of the shortest_path function such that it returns the shortest path from the person with id source to the person with the id target.
 

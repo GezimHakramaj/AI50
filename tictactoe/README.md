@@ -1,9 +1,9 @@
 # Week 0
-### Project 0b: Tic-Tac-Toe
+## Project 0b: Tic-Tac-Toe
 
 Using Minimax, implement an AI to play Tic-Tac-Toe optimally.
 
-### Understanding
+## Understanding
 
 There are two main files in this project: `runner.py` and `tictactoe.py`. `tictactoe.py` contains all of the logic for playing the 
 game, and for making optimal moves. `runner.py` has been implemented for you, and contains all of the code to run the graphical
@@ -17,7 +17,7 @@ The function `initial_state` returns the starting state of the board. For this p
 as a list of three lists (representing the three rows of the board), where each internal list contains three values that are 
 either `X`, `O`, or `EMPTY`. What follows are functions that we’ve left up to you to implement!
 
-### Specification
+## Specification
 
 Complete the implementations of `player`, `actions`, `result`, `winner`, `terminal`, `utility`, and `minimax`.
 
@@ -51,4 +51,4 @@ For all functions that accept a `board` as input, you may assume that it is a va
 
 Once all functions are implemented correctly, you should be able to run `python runner.py` and play against your AI. And, since Tic-Tac-Toe is a tie given optimal play by both sides, you should never be able to beat the AI (though if you don’t play optimally as well, it may beat you!)
 
-#### Video
+## Video
