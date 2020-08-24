@@ -1,4 +1,4 @@
-# Week 1
+# Week 1: Knowledge
 ## Project 1a: Knights
 
 Write a program to solve logic puzzles.

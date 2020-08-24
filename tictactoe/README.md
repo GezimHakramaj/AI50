@@ -1,4 +1,5 @@
-# Week 0
+# Week 0: Search
+
 ## Project 0b: Tic-Tac-Toe
 
 Using Minimax, implement an AI to play Tic-Tac-Toe optimally.

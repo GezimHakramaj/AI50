@@ -1,4 +1,4 @@
-# Week 0
+# Week 0: Search
 ## Project 0a: Degrees
 
 Write a program that determines how many “degrees of separation” apart two actors are.

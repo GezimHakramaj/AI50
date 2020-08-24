@@ -1,4 +1,5 @@
-# Week 2
+# Week 2: Uncertainty
+
 ## Project 2a: PageRank
 
 Write an AI to rank web pages by importance.

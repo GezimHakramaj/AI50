@@ -1,4 +1,5 @@
-# Week 1
+# Week 1: Knowledge
+
 ## Project 1b: Minesweeper
 
 Write an AI to play Minesweeper.

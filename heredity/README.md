@@ -1,4 +1,5 @@
-# Week 2
+# Week 2: Uncertainty
+
 ## Project 2b: Heredity
 
 Write an AI to assess the likelihood that a person will have a particular genetic trait.
@@ -138,3 +139,5 @@ The `normalize` function updates a dictionary of probabilities such that each pr
 - The function should not return any value: it just needs to update the `probabilities` dictionary.
 
 You should not modify anything else in `heredity.py` other than the three functions the specification calls for you to implement, though you may write additional functions and/or import other Python standard library modules. You may also import `numpy` or `pandas`, if familiar with them, but you should not use any other third-party Python modules.
+
+## Video
