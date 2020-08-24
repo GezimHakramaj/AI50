@@ -1,4 +1,4 @@
-# Week 4:
+# Week 4: Learning
 
 ## Project 4a: Shopping
 
