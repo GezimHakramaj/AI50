@@ -8,7 +8,7 @@ intelligence and machine learning as they incorporate them into their own Python
 students emerge with experience in libraries for machine learning as well as knowledge of artificial intelligence 
 principles that enable them to design intelligent systems of their own.
 
-# Summary
+## Summary
 
 In this repo I designed and implemented various AI agents ranging from playing games using search algorithms, optimization 
 and supervised learning to convolutional neural networks using TensorFlow for image processing as well as question 
@@ -22,7 +22,7 @@ To run these programs on your own the datasets and requirements have been includ
 
 Run pip3 install requirements.txt (if needed) and test away!
 
-# Projects List
+## Projects List
 
 ### Week 0  
    - [**Degrees**](https://github.com/GezimHakramaj/AI50/tree/master/degrees)
@@ -67,3 +67,6 @@ Run pip3 install requirements.txt (if needed) and test away!
    
    - [**Parser**](https://github.com/GezimHakramaj/AI50/tree/master/parser)
    - [**Questions**](https://github.com/GezimHakramaj/AI50/tree/master/questions)
+
+
+## [Certificate](https://certificates.cs50.io/41493385-ff83-443f-be4f-82fd7c2caec4.pdf?size=letter)
